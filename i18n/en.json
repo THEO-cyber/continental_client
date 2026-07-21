@@ -1,0 +1,114 @@
+{
+  "lang": "en",
+  "locale": "en_US",
+  "dir": "ltr",
+  "meta": {
+    "title": "Continental Auto Parts — Car Spare Parts in Kribi, Cameroon",
+    "titleSuffix": " | Continental Auto Parts Kribi",
+    "description": "Genuine car spare parts in Kribi, Cameroon: engine parts, brakes, suspension, filters, electrical parts and more for all makes and models. Worldwide inquiries welcome — contact Continental Auto Parts today.",
+    "keywords": "car spare parts, auto parts Cameroon, spare parts Kribi, engine parts, brake pads, car filters, suspension parts, auto parts store, pièces détachées, 汽车配件"
+  },
+  "nav": { "home": "Home", "catalog": "Catalog", "about": "About", "contact": "Contact" },
+  "hero": {
+    "badge": "Kribi · Cameroon · Serving customers worldwide",
+    "title": "Genuine car spare parts for every make and model",
+    "subtitle": "Engine, brakes, suspension, filters, electrical and more — quality parts in stock in Kribi, with worldwide inquiries welcome.",
+    "cta": "Browse the catalog",
+    "cta2": "Contact us"
+  },
+  "catalog": {
+    "title": "Our Parts Catalog",
+    "subtitle": "Live inventory — what you see here is what is available in store right now.",
+    "search": "Search parts, brands…",
+    "all": "All categories",
+    "inStock": "In stock",
+    "outOfStock": "Out of stock",
+    "empty": "No parts match your search.",
+    "inquire": "Ask about this part",
+    "updated": "Catalog updated just now"
+  },
+  "categories": {
+    "engine": "Engine Parts",
+    "brakes": "Braking System",
+    "suspension": "Suspension & Steering",
+    "transmission": "Transmission",
+    "electrical": "Electrical & Batteries",
+    "filters": "Filters",
+    "cooling": "Cooling System",
+    "body": "Body Parts",
+    "lubricants": "Oils & Lubricants",
+    "tires": "Tires & Wheels",
+    "accessories": "Accessories"
+  },
+  "about": {
+    "title": "About Continental Auto Parts",
+    "text": "Continental Auto Parts is a trusted car spare parts supplier based in Kribi, Cameroon. We stock genuine and quality aftermarket parts for all major makes and models — from engine components and braking systems to filters, electrical parts and accessories. Located in the port city of Kribi, we serve drivers, garages and businesses across Cameroon, Central Africa and worldwide.",
+    "point1": "Genuine & quality aftermarket parts",
+    "point2": "All major makes and models",
+    "point3": "Worldwide inquiries and sourcing"
+  },
+  "contact": {
+    "title": "Contact & Location",
+    "subtitle": "Ask about availability, request a part, or visit us in Kribi.",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "address": "Address",
+    "hours": "Opening hours",
+    "whatsappCta": "Chat on WhatsApp"
+  },
+  "quick": { "call": "Call us", "wa": "WhatsApp" },
+  "catsec": { "title": "Shop by category", "sub": "Find the right part faster." },
+  "steps": {
+    "title": "How to order",
+    "sub": "Three simple steps — from anywhere in the world.",
+    "s1t": "Find your part",
+    "s1d": "Search the live catalog — it always shows what is really in stock in Kribi.",
+    "s2t": "Contact us on WhatsApp",
+    "s2d": "Send us the part with one tap. We confirm availability and fitment for your car.",
+    "s3t": "Pick up or ship",
+    "s3d": "Collect in store in Kribi, or we arrange delivery across Cameroon and worldwide."
+  },
+  "brands": { "title": "Brands we stock" },
+  "statsec": { "parts": "Parts in catalog", "brands": "Brands", "categories": "Categories" },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "sub": "Quick answers before you reach out.",
+    "q1": "Do you ship outside Kribi?",
+    "a1": "Yes. We serve all of Cameroon and arrange international shipping for worldwide inquiries — contact us on WhatsApp for a quote.",
+    "q2": "Are your parts genuine?",
+    "a2": "We stock genuine and certified quality aftermarket parts from trusted brands like Bosch, NGK, KYB, Denso and Total.",
+    "q3": "How do I know if a part fits my car?",
+    "a3": "Send us your car's make, model and year (or the old part's reference number) on WhatsApp and we confirm fitment before you buy.",
+    "q4": "Why are there no prices on the site?",
+    "a4": "Prices vary with exchange rates and stock. Contact us for a quote — we answer quickly and our prices are competitive."
+  },
+  "related": { "title": "Related parts" },
+  "misc": {
+    "menu": "Menu",
+    "skip": "Skip to content",
+    "backToTop": "Back to top",
+    "results": "parts shown",
+    "clear": "Clear search",
+    "showMore": "Show more parts"
+  },
+  "footer": {
+    "tagline": "Car spare parts in Kribi, Cameroon — serving customers worldwide.",
+    "rights": "All rights reserved.",
+    "quickLinks": "Quick links",
+    "categoriesTitle": "Categories",
+    "contactTitle": "Contact"
+  },
+  "product": {
+    "back": "Back to catalog",
+    "brand": "Brand",
+    "category": "Category",
+    "availability": "Availability",
+    "inquireTitle": "Interested in this part?",
+    "inquireText": "Contact us for availability and details — we answer quickly on WhatsApp."
+  },
+  "offline": {
+    "title": "You are offline",
+    "text": "The catalog needs an internet connection. Please reconnect and try again."
+  }
+}

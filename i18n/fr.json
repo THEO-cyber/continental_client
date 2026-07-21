@@ -1,0 +1,114 @@
+{
+  "lang": "fr",
+  "locale": "fr_FR",
+  "dir": "ltr",
+  "meta": {
+    "title": "Continental Auto Parts — Pièces Détachées Auto à Kribi, Cameroun",
+    "titleSuffix": " | Continental Auto Parts Kribi",
+    "description": "Pièces détachées automobiles d'origine à Kribi, Cameroun : pièces moteur, freinage, suspension, filtres, pièces électriques et plus pour toutes les marques. Demandes internationales bienvenues — contactez Continental Auto Parts.",
+    "keywords": "pièces détachées auto, pièces auto Cameroun, pièces détachées Kribi, pièces moteur, plaquettes de frein, filtres auto, suspension, magasin pièces auto, car spare parts, 汽车配件"
+  },
+  "nav": { "home": "Accueil", "catalog": "Catalogue", "about": "À propos", "contact": "Contact" },
+  "hero": {
+    "badge": "Kribi · Cameroun · Au service du monde entier",
+    "title": "Pièces détachées auto d'origine pour toutes les marques",
+    "subtitle": "Moteur, freinage, suspension, filtres, électricité et plus — des pièces de qualité en stock à Kribi, demandes internationales bienvenues.",
+    "cta": "Voir le catalogue",
+    "cta2": "Nous contacter"
+  },
+  "catalog": {
+    "title": "Notre Catalogue de Pièces",
+    "subtitle": "Inventaire en direct — ce que vous voyez ici est disponible en magasin en ce moment.",
+    "search": "Rechercher pièces, marques…",
+    "all": "Toutes les catégories",
+    "inStock": "En stock",
+    "outOfStock": "Rupture de stock",
+    "empty": "Aucune pièce ne correspond à votre recherche.",
+    "inquire": "Demander cette pièce",
+    "updated": "Catalogue mis à jour à l'instant"
+  },
+  "categories": {
+    "engine": "Pièces Moteur",
+    "brakes": "Système de Freinage",
+    "suspension": "Suspension & Direction",
+    "transmission": "Transmission",
+    "electrical": "Électricité & Batteries",
+    "filters": "Filtres",
+    "cooling": "Système de Refroidissement",
+    "body": "Carrosserie",
+    "lubricants": "Huiles & Lubrifiants",
+    "tires": "Pneus & Jantes",
+    "accessories": "Accessoires"
+  },
+  "about": {
+    "title": "À propos de Continental Auto Parts",
+    "text": "Continental Auto Parts est un fournisseur de confiance de pièces détachées automobiles basé à Kribi, au Cameroun. Nous stockons des pièces d'origine et de qualité pour toutes les grandes marques et tous les modèles — des composants moteur aux systèmes de freinage, filtres, pièces électriques et accessoires. Situés dans la ville portuaire de Kribi, nous servons les conducteurs, garages et entreprises au Cameroun, en Afrique centrale et dans le monde entier.",
+    "point1": "Pièces d'origine et de qualité",
+    "point2": "Toutes les grandes marques et modèles",
+    "point3": "Demandes et approvisionnement internationaux"
+  },
+  "contact": {
+    "title": "Contact & Localisation",
+    "subtitle": "Renseignez-vous sur la disponibilité, demandez une pièce ou rendez-nous visite à Kribi.",
+    "phone": "Téléphone",
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "address": "Adresse",
+    "hours": "Heures d'ouverture",
+    "whatsappCta": "Discuter sur WhatsApp"
+  },
+  "quick": { "call": "Appelez-nous", "wa": "WhatsApp" },
+  "catsec": { "title": "Achetez par catégorie", "sub": "Trouvez la bonne pièce plus vite." },
+  "steps": {
+    "title": "Comment commander",
+    "sub": "Trois étapes simples — depuis n'importe où dans le monde.",
+    "s1t": "Trouvez votre pièce",
+    "s1d": "Cherchez dans le catalogue en direct — il montre ce qui est réellement en stock à Kribi.",
+    "s2t": "Contactez-nous sur WhatsApp",
+    "s2d": "Envoyez-nous la pièce en un clic. Nous confirmons la disponibilité et la compatibilité avec votre véhicule.",
+    "s3t": "Retrait ou livraison",
+    "s3d": "Retirez en magasin à Kribi, ou nous organisons la livraison au Cameroun et dans le monde entier."
+  },
+  "brands": { "title": "Nos marques" },
+  "statsec": { "parts": "Pièces au catalogue", "brands": "Marques", "categories": "Catégories" },
+  "faq": {
+    "title": "Questions fréquentes",
+    "sub": "Des réponses rapides avant de nous contacter.",
+    "q1": "Livrez-vous en dehors de Kribi ?",
+    "a1": "Oui. Nous servons tout le Cameroun et organisons des expéditions internationales — contactez-nous sur WhatsApp pour un devis.",
+    "q2": "Vos pièces sont-elles d'origine ?",
+    "a2": "Nous stockons des pièces d'origine et des pièces de qualité certifiée des marques de confiance comme Bosch, NGK, KYB, Denso et Total.",
+    "q3": "Comment savoir si une pièce est compatible avec ma voiture ?",
+    "a3": "Envoyez-nous la marque, le modèle et l'année de votre voiture (ou la référence de l'ancienne pièce) sur WhatsApp et nous confirmons la compatibilité avant l'achat.",
+    "q4": "Pourquoi les prix ne sont-ils pas affichés ?",
+    "a4": "Les prix varient selon les taux de change et le stock. Contactez-nous pour un devis — nous répondons rapidement et nos prix sont compétitifs."
+  },
+  "related": { "title": "Pièces similaires" },
+  "misc": {
+    "menu": "Menu",
+    "skip": "Aller au contenu",
+    "backToTop": "Haut de page",
+    "results": "pièces affichées",
+    "clear": "Effacer la recherche",
+    "showMore": "Voir plus de pièces"
+  },
+  "footer": {
+    "tagline": "Pièces détachées auto à Kribi, Cameroun — au service du monde entier.",
+    "rights": "Tous droits réservés.",
+    "quickLinks": "Liens rapides",
+    "categoriesTitle": "Catégories",
+    "contactTitle": "Contact"
+  },
+  "product": {
+    "back": "Retour au catalogue",
+    "brand": "Marque",
+    "category": "Catégorie",
+    "availability": "Disponibilité",
+    "inquireTitle": "Intéressé par cette pièce ?",
+    "inquireText": "Contactez-nous pour la disponibilité et les détails — nous répondons rapidement sur WhatsApp."
+  },
+  "offline": {
+    "title": "Vous êtes hors ligne",
+    "text": "Le catalogue nécessite une connexion internet. Veuillez vous reconnecter et réessayer."
+  }
+}
