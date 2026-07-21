@@ -194,8 +194,12 @@ a { color: inherit; }
 }
 
 /* ---------- contact ---------- */
+.contact-layout {
+  display: grid; gap: 1.6rem; margin-bottom: 1.6rem;
+  grid-template-columns: 1.1fr 1fr; align-items: start;
+}
 .contact-grid {
-  display: grid; gap: 1rem; margin-bottom: 1.6rem;
+  display: grid; gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 }
 .contact-item {
@@ -206,6 +210,16 @@ a { color: inherit; }
 .contact-item a { color: var(--navy); font-weight: 600; text-decoration: none; word-break: break-word; }
 .contact-item a:hover { text-decoration: underline; }
 .contact-item span + span { font-weight: 600; color: var(--navy); }
+.contact-map {
+  background: #fff; border: 1px solid var(--line); border-radius: var(--radius);
+  padding: .6rem; display: grid; gap: .7rem; justify-items: center;
+}
+.contact-map iframe { border-radius: 8px; display: block; }
+.btn-map { background: var(--navy); color: #fff; width: 100%; text-align: center; }
+.btn-map:hover { background: var(--navy-2); }
+@media (max-width: 820px) {
+  .contact-layout { grid-template-columns: 1fr; }
+}
 
 /* ---------- product page ---------- */
 .product-page { padding: 2rem 0 3rem; }

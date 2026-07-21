@@ -8,7 +8,12 @@
     "description": "喀麦隆克里比正品汽车配件：发动机配件、刹车系统、悬挂、滤清器、电气件等，适配各大品牌车型。欢迎全球咨询与采购，联系 Continental Auto Parts。",
     "keywords": "汽车配件, 喀麦隆汽车配件, 克里比配件, 发动机配件, 刹车片, 滤清器, 悬挂配件, 汽配店, car spare parts, pièces détachées"
   },
-  "nav": { "home": "首页", "catalog": "产品目录", "about": "关于我们", "contact": "联系我们" },
+  "nav": {
+    "home": "首页",
+    "catalog": "产品目录",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
   "hero": {
     "badge": "克里比 · 喀麦隆 · 服务全球客户",
     "title": "各大品牌车型的正品汽车配件",
@@ -55,10 +60,17 @@
     "email": "邮箱",
     "address": "地址",
     "hours": "营业时间",
-    "whatsappCta": "WhatsApp 在线咨询"
+    "whatsappCta": "WhatsApp 在线咨询",
+    "directionsCta": "获取路线"
   },
-  "quick": { "call": "致电我们", "wa": "WhatsApp" },
-  "catsec": { "title": "按分类选购", "sub": "更快找到合适的配件。" },
+  "quick": {
+    "call": "致电我们",
+    "wa": "WhatsApp"
+  },
+  "catsec": {
+    "title": "按分类选购",
+    "sub": "更快找到合适的配件。"
+  },
   "steps": {
     "title": "如何订购",
     "sub": "三个简单步骤 — 全球任何地方均可。",
@@ -69,8 +81,14 @@
     "s3t": "到店自提或发货",
     "s3d": "到克里比门店自提，或由我们安排喀麦隆国内及全球配送。"
   },
-  "brands": { "title": "在售品牌" },
-  "statsec": { "parts": "在库配件", "brands": "品牌", "categories": "分类" },
+  "brands": {
+    "title": "在售品牌"
+  },
+  "statsec": {
+    "parts": "在库配件",
+    "brands": "品牌",
+    "categories": "分类"
+  },
   "faq": {
     "title": "常见问题",
     "sub": "联系我们之前的快速解答。",
@@ -83,7 +101,9 @@
     "q4": "网站为什么不显示价格？",
     "a4": "价格随汇率和库存变动。请联系我们获取报价 — 我们回复迅速，价格具有竞争力。"
   },
-  "related": { "title": "相关配件" },
+  "related": {
+    "title": "相关配件"
+  },
   "misc": {
     "menu": "菜单",
     "skip": "跳到内容",

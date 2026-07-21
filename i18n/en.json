@@ -8,7 +8,12 @@
     "description": "Genuine car spare parts in Kribi, Cameroon: engine parts, brakes, suspension, filters, electrical parts and more for all makes and models. Worldwide inquiries welcome — contact Continental Auto Parts today.",
     "keywords": "car spare parts, auto parts Cameroon, spare parts Kribi, engine parts, brake pads, car filters, suspension parts, auto parts store, pièces détachées, 汽车配件"
   },
-  "nav": { "home": "Home", "catalog": "Catalog", "about": "About", "contact": "Contact" },
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "about": "About",
+    "contact": "Contact"
+  },
   "hero": {
     "badge": "Kribi · Cameroon · Serving customers worldwide",
     "title": "Genuine car spare parts for every make and model",
@@ -55,10 +60,17 @@
     "email": "Email",
     "address": "Address",
     "hours": "Opening hours",
-    "whatsappCta": "Chat on WhatsApp"
+    "whatsappCta": "Chat on WhatsApp",
+    "directionsCta": "Get Directions"
   },
-  "quick": { "call": "Call us", "wa": "WhatsApp" },
-  "catsec": { "title": "Shop by category", "sub": "Find the right part faster." },
+  "quick": {
+    "call": "Call us",
+    "wa": "WhatsApp"
+  },
+  "catsec": {
+    "title": "Shop by category",
+    "sub": "Find the right part faster."
+  },
   "steps": {
     "title": "How to order",
     "sub": "Three simple steps — from anywhere in the world.",
@@ -69,8 +81,14 @@
     "s3t": "Pick up or ship",
     "s3d": "Collect in store in Kribi, or we arrange delivery across Cameroon and worldwide."
   },
-  "brands": { "title": "Brands we stock" },
-  "statsec": { "parts": "Parts in catalog", "brands": "Brands", "categories": "Categories" },
+  "brands": {
+    "title": "Brands we stock"
+  },
+  "statsec": {
+    "parts": "Parts in catalog",
+    "brands": "Brands",
+    "categories": "Categories"
+  },
   "faq": {
     "title": "Frequently Asked Questions",
     "sub": "Quick answers before you reach out.",
@@ -83,7 +101,9 @@
     "q4": "Why are there no prices on the site?",
     "a4": "Prices vary with exchange rates and stock. Contact us for a quote — we answer quickly and our prices are competitive."
   },
-  "related": { "title": "Related parts" },
+  "related": {
+    "title": "Related parts"
+  },
   "misc": {
     "menu": "Menu",
     "skip": "Skip to content",

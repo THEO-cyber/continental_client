@@ -8,7 +8,12 @@
     "description": "Pièces détachées automobiles d'origine à Kribi, Cameroun : pièces moteur, freinage, suspension, filtres, pièces électriques et plus pour toutes les marques. Demandes internationales bienvenues — contactez Continental Auto Parts.",
     "keywords": "pièces détachées auto, pièces auto Cameroun, pièces détachées Kribi, pièces moteur, plaquettes de frein, filtres auto, suspension, magasin pièces auto, car spare parts, 汽车配件"
   },
-  "nav": { "home": "Accueil", "catalog": "Catalogue", "about": "À propos", "contact": "Contact" },
+  "nav": {
+    "home": "Accueil",
+    "catalog": "Catalogue",
+    "about": "À propos",
+    "contact": "Contact"
+  },
   "hero": {
     "badge": "Kribi · Cameroun · Au service du monde entier",
     "title": "Pièces détachées auto d'origine pour toutes les marques",
@@ -55,10 +60,17 @@
     "email": "E-mail",
     "address": "Adresse",
     "hours": "Heures d'ouverture",
-    "whatsappCta": "Discuter sur WhatsApp"
+    "whatsappCta": "Discuter sur WhatsApp",
+    "directionsCta": "Itinéraire"
   },
-  "quick": { "call": "Appelez-nous", "wa": "WhatsApp" },
-  "catsec": { "title": "Achetez par catégorie", "sub": "Trouvez la bonne pièce plus vite." },
+  "quick": {
+    "call": "Appelez-nous",
+    "wa": "WhatsApp"
+  },
+  "catsec": {
+    "title": "Achetez par catégorie",
+    "sub": "Trouvez la bonne pièce plus vite."
+  },
   "steps": {
     "title": "Comment commander",
     "sub": "Trois étapes simples — depuis n'importe où dans le monde.",
@@ -69,8 +81,14 @@
     "s3t": "Retrait ou livraison",
     "s3d": "Retirez en magasin à Kribi, ou nous organisons la livraison au Cameroun et dans le monde entier."
   },
-  "brands": { "title": "Nos marques" },
-  "statsec": { "parts": "Pièces au catalogue", "brands": "Marques", "categories": "Catégories" },
+  "brands": {
+    "title": "Nos marques"
+  },
+  "statsec": {
+    "parts": "Pièces au catalogue",
+    "brands": "Marques",
+    "categories": "Catégories"
+  },
   "faq": {
     "title": "Questions fréquentes",
     "sub": "Des réponses rapides avant de nous contacter.",
@@ -83,7 +101,9 @@
     "q4": "Pourquoi les prix ne sont-ils pas affichés ?",
     "a4": "Les prix varient selon les taux de change et le stock. Contactez-nous pour un devis — nous répondons rapidement et nos prix sont compétitifs."
   },
-  "related": { "title": "Pièces similaires" },
+  "related": {
+    "title": "Pièces similaires"
+  },
   "misc": {
     "menu": "Menu",
     "skip": "Aller au contenu",
