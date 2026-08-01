@@ -215,6 +215,7 @@ a { color: inherit; }
   padding: .6rem; display: grid; gap: .7rem; justify-items: center;
 }
 .contact-map iframe { border-radius: 8px; display: block; }
+.contact-map-frame { border: 0; }
 .btn-map { background: var(--navy); color: #fff; width: 100%; text-align: center; }
 .btn-map:hover { background: var(--navy-2); }
 @media (max-width: 820px) {
