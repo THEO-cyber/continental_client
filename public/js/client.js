@@ -204,7 +204,12 @@
 
   if (typeof io !== 'undefined') {
     try {
-      var socket = io({ transports: ['websocket', 'polling'] });
+      // This site is hosted separately from the API/realtime server —
+      // window.API_BASE is injected by the page shell (see _lib/render.ts).
+      var API_BASE = (typeof window !== 'undefined' && window.API_BASE) || '';
+      var socket = API_BASE
+        ? io(API_BASE, { transports: ['websocket', 'polling'] })
+        : io({ transports: ['websocket', 'polling'] });
       socket.on('catalog:changed', scheduleRefresh);
     } catch (e) { /* realtime unavailable: page still works */ }
   }

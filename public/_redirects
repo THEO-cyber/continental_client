@@ -1,0 +1,6 @@
+# The HTML this site serves (and sw.js's precache list, manifest.webmanifest's
+# icon paths) all reference static assets under /assets/... — matching the URL
+# scheme continental_backend used to serve this same public/ folder under
+# (useStaticAssets prefix: '/assets/'). Rewriting here means none of those
+# references needed to change during the Netlify port.
+/assets/*  /:splat  200

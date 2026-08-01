@@ -1,0 +1,13 @@
+{
+  "name": "continental-client",
+  "private": true,
+  "description": "Continental Auto Parts — public site SSR, hosted on Netlify Functions",
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^3.0.0",
+    "@types/node": "^20.14.0",
+    "typescript": "^5.6.3"
+  }
+}
