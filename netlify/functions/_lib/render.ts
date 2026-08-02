@@ -51,6 +51,7 @@ function head(opts: {
   <meta name="description" content="${attr(description)}">
   <meta name="keywords" content="${attr(t.meta.keywords)}">
   <meta name="robots" content="index, follow">
+  <meta name="google-site-verification" content="umjaeNEj_1GJ6DY1N_AQrxPH3FdR_xEQ1UMRmJDpqCg" />
   <link rel="canonical" href="${url(canonicalPath)}">
   ${alternates}
   <link rel="alternate" hreflang="x-default" href="${url(altPaths[DEFAULT_LANG])}">
