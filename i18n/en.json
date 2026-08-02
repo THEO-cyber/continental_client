@@ -3,9 +3,9 @@
   "locale": "en_US",
   "dir": "ltr",
   "meta": {
-    "title": "Continental Auto Parts — Car Spare Parts in Kribi, Cameroon",
+    "title": "Continental Auto Parts. Car Spare Parts in Kribi, Cameroon",
     "titleSuffix": " | Continental Auto Parts Kribi",
-    "description": "Genuine car spare parts in Kribi, Cameroon: engine parts, brakes, suspension, filters, electrical parts and more for all makes and models. Worldwide inquiries welcome — contact Continental Auto Parts today.",
+    "description": "Genuine car spare parts in Kribi, Cameroon: engine parts, brakes, suspension, filters, electrical parts and more for all makes and models. Worldwide inquiries welcome. contact Continental Auto Parts today.",
     "keywords": "car spare parts, auto parts Cameroon, spare parts Kribi, engine parts, brake pads, car filters, suspension parts, auto parts store, pièces détachées, 汽车配件"
   },
   "nav": {
@@ -17,13 +17,13 @@
   "hero": {
     "badge": "Kribi · Cameroon · Serving customers worldwide",
     "title": "Genuine car spare parts for every make and model",
-    "subtitle": "Engine, brakes, suspension, filters, electrical and more — quality parts in stock in Kribi, with worldwide inquiries welcome.",
+    "subtitle": "Engine, brakes, suspension, filters, electrical and more quality parts in stock in Kribi, with worldwide inquiries welcome.",
     "cta": "Browse the catalog",
     "cta2": "Contact us"
   },
   "catalog": {
     "title": "Our Parts Catalog",
-    "subtitle": "Live inventory — what you see here is what is available in store right now.",
+    "subtitle": "Live inventory what you see here is what is available in store right now.",
     "search": "Search parts, brands…",
     "all": "All categories",
     "inStock": "In stock",
@@ -47,7 +47,7 @@
   },
   "about": {
     "title": "About Continental Auto Parts",
-    "text": "Continental Auto Parts is a trusted car spare parts supplier based in Kribi, Cameroon. We stock genuine and quality aftermarket parts for all major makes and models — from engine components and braking systems to filters, electrical parts and accessories. Located in the port city of Kribi, we serve drivers, garages and businesses across Cameroon, Central Africa and worldwide.",
+    "text": "Continental Auto Parts is a trusted car spare parts supplier based in Kribi, Cameroon. We stock genuine and quality aftermarket parts for all major makes and models from engine components and braking systems to filters, electrical parts and accessories. Located in the port city of Kribi, we serve drivers, garages and businesses across Cameroon, Central Africa and worldwide.",
     "point1": "Genuine & quality aftermarket parts",
     "point2": "All major makes and models",
     "point3": "Worldwide inquiries and sourcing"
@@ -73,9 +73,9 @@
   },
   "steps": {
     "title": "How to order",
-    "sub": "Three simple steps — from anywhere in the world.",
+    "sub": "Three simple steps from anywhere in the world.",
     "s1t": "Find your part",
-    "s1d": "Search the live catalog — it always shows what is really in stock in Kribi.",
+    "s1d": "Search the live catalog it always shows what is really in stock in Kribi.",
     "s2t": "Contact us on WhatsApp",
     "s2d": "Send us the part with one tap. We confirm availability and fitment for your car.",
     "s3t": "Pick up or ship",
@@ -93,13 +93,13 @@
     "title": "Frequently Asked Questions",
     "sub": "Quick answers before you reach out.",
     "q1": "Do you ship outside Kribi?",
-    "a1": "Yes. We serve all of Cameroon and arrange international shipping for worldwide inquiries — contact us on WhatsApp for a quote.",
+    "a1": "Yes. We serve all of Cameroon and arrange international shipping for worldwide inquiries contact us on WhatsApp for a quote.",
     "q2": "Are your parts genuine?",
     "a2": "We stock genuine and certified quality aftermarket parts from trusted brands like Bosch, NGK, KYB, Denso and Total.",
     "q3": "How do I know if a part fits my car?",
     "a3": "Send us your car's make, model and year (or the old part's reference number) on WhatsApp and we confirm fitment before you buy.",
     "q4": "Why are there no prices on the site?",
-    "a4": "Prices vary with exchange rates and stock. Contact us for a quote — we answer quickly and our prices are competitive."
+    "a4": "Prices vary with exchange rates and stock. Contact us for a quote we answer quickly and our prices are competitive."
   },
   "related": {
     "title": "Related parts"
@@ -113,7 +113,7 @@
     "showMore": "Show more parts"
   },
   "footer": {
-    "tagline": "Car spare parts in Kribi, Cameroon — serving customers worldwide.",
+    "tagline": "Car spare parts in Kribi, Cameroon. Serving customers worldwide.",
     "rights": "All rights reserved.",
     "quickLinks": "Quick links",
     "categoriesTitle": "Categories",
@@ -125,7 +125,7 @@
     "category": "Category",
     "availability": "Availability",
     "inquireTitle": "Interested in this part?",
-    "inquireText": "Contact us for availability and details — we answer quickly on WhatsApp."
+    "inquireText": "Contact us for availability and details, we answer quickly on WhatsApp."
   },
   "offline": {
     "title": "You are offline",
