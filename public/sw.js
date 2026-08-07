@@ -1,4 +1,4 @@
-/* Continental Auto Parts — service worker (public site) */
+/* Continental Automobile — service worker (public site) */
 'use strict';
 
 const VERSION = 'continental-v3';

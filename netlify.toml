@@ -1,4 +1,4 @@
-# Netlify site config for the Continental Auto Parts public client site.
+# Netlify site config for the Continental Automobile public client site.
 # Routing is declared per-function (see netlify/functions/*.ts `config.path`),
 # not here — the only redirect needed is the /assets/* rewrite in public/_redirects,
 # which Netlify reads automatically from the publish directory.

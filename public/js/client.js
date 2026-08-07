@@ -1,4 +1,4 @@
-/* Continental Auto Parts — public site interactivity + realtime + PWA */
+/* Continental Automobile — public site interactivity + realtime + PWA */
 (function () {
   'use strict';
 

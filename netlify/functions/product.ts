@@ -17,7 +17,7 @@ export default async (req: Request): Promise<Response> => {
     if (!html) {
       return new Response(
         `<!doctype html><html lang="${lang}"><head><meta charset="utf-8"><title>404</title></head>
-<body style="font-family:system-ui;text-align:center;padding:4rem"><h1>404</h1><p><a href="/${lang}">Continental Auto Parts</a></p></body></html>`,
+<body style="font-family:system-ui;text-align:center;padding:4rem"><h1>404</h1><p><a href="/${lang}">Continental Automobile</a></p></body></html>`,
         { status: 404, headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-cache' } },
       );
     }

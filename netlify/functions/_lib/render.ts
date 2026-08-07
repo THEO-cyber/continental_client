@@ -70,6 +70,7 @@ function head(opts: {
   <meta name="twitter:image" content="${url(ogImage || '/assets/img/og-banner.png')}">
   <meta name="theme-color" content="#0e1726">
   <link rel="icon" href="/assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/assets/icons/icon-192.png" type="image/png" sizes="192x192">
   <link rel="apple-touch-icon" href="/assets/icons/icon-192.png">
   <link rel="manifest" href="/manifest.webmanifest">
   <link rel="stylesheet" href="${asset('/assets/css/client.css')}">
@@ -109,13 +110,13 @@ function langSwitcher(lang: Lang, pathFor: (l: Lang) => string): string {
 }
 
 function header(lang: Lang, t: I18n, pathFor: (l: Lang) => string, settings: PublicSettings['settings']): string {
-  const wa = waLink(settings, 'Hello Continental Auto Parts!');
+  const wa = waLink(settings, 'Hello Continental Automobile!');
   const tel = `tel:${String(settings.phone || '').replace(/\s/g, '')}`;
   return `<header class="site-header">
     <div class="container header-inner">
       <a class="brand" href="/${lang}">
         <img src="/assets/icons/favicon.svg" alt="" width="34" height="34">
-        <span><strong>Continental</strong> Auto Parts</span>
+        <span><strong>Continental</strong> Automobile</span>
       </a>
       <nav class="main-nav" id="main-nav" aria-label="Main">
         <a href="/${lang}#catalog">${esc(t.nav.catalog)}</a>
@@ -140,7 +141,7 @@ function header(lang: Lang, t: I18n, pathFor: (l: Lang) => string, settings: Pub
 }
 
 function waFloat(t: I18n, settings: PublicSettings['settings']): string {
-  const wa = waLink(settings, 'Hello Continental Auto Parts!');
+  const wa = waLink(settings, 'Hello Continental Automobile!');
   return `<a class="wa-float" href="${attr(wa)}" target="_blank" rel="noopener" aria-label="WhatsApp">
     <svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.1 14.1c-.2.6-1.2 1.2-1.7 1.2-.4.1-1 .1-1.6-.1-.4-.1-.9-.3-1.5-.5-2.6-1.1-4.3-3.7-4.4-3.9-.1-.2-1-1.4-1-2.6s.6-1.8.9-2.1c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.4l.9 2.1c.1.2.1.4 0 .6l-.4.6-.4.5c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.4 2.4 1.5.3.1.5.1.7-.1l1-1.2c.2-.3.4-.2.7-.1l2 .9c.3.1.5.2.6.4 0 .1 0 .7-.2 1.2z"/></svg>
   </a>
@@ -169,7 +170,7 @@ function productCard(p: PublicProduct, lang: Lang, t: I18n, settings: PublicSett
 }
 
 function contactSection(t: I18n, settings: PublicSettings['settings'], business: PublicSettings['business']): string {
-  const wa = waLink(settings, 'Hello Continental Auto Parts!');
+  const wa = waLink(settings, 'Hello Continental Automobile!');
   const { latitude, longitude } = business;
   const directions = `https://www.google.com/maps/dir/?api=1&destination=${latitude},${longitude}`;
   const offset = 0.008;
@@ -210,7 +211,7 @@ function footer(lang: Lang, t: I18n, settings: PublicSettings['settings'], busin
       <div class="footer-col footer-brand-col">
         <a class="brand brand-light" href="/${lang}">
           <img src="/assets/icons/favicon.svg" alt="" width="30" height="30">
-          <span><strong>Continental</strong> Auto Parts</span>
+          <span><strong>Continental</strong> Automobile</span>
         </a>
         <p>${esc(t.footer.tagline)}</p>
         <div class="footer-langs">
